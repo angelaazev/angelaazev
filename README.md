@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @angelaazev
-- 👀 I’m interested in front and back-end. 
-- 🌱 I’m currently learning javascrip, html, css and python.
+- 👀 I’m interested in data engineering field
 
 <!---
 angelaazev/angelaazev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
